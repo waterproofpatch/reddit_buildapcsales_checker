@@ -12,5 +12,5 @@ pip install -r requirements.txt
 
 ## Usage
 ```bash
-./reddit_api_consumer/main.py
+./reddit_buildapcsales_checker/main.py
 ```
